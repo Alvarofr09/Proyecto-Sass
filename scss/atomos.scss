@@ -1,0 +1,20 @@
+// Reset css
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+/* Estilos para html */
+html {
+	background-color: $background-hero;
+}
+
+body {
+	font-size: 21px;
+	line-height: 1.5;
+}
+
+p {
+	color: $brand-color-terciary;
+}
