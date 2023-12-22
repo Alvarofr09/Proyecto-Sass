@@ -1,0 +1,14 @@
+/* line 2, _atomos.scss */
+* { padding: 0; margin: 0; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+/* Estilos para html */
+/* line 9, _atomos.scss */
+html { background-color: green; }
+
+/* line 13, _atomos.scss */
+body { font-size: 21px; line-height: 1.5; }
+
+/* line 18, _atomos.scss */
+p { color: black; }
+
+/*# sourceMappingURL=main.css.map */
